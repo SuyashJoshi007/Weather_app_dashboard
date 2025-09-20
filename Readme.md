@@ -81,7 +81,7 @@ Power BI's visuals were leveraged for **clarity + interactivity**.
 -   🎨 **Conditional Formatting:** Quick identification of extreme
     values.\
 -   🖱 **Tooltips:** Added for hover-based exploration.
-
+![Relation Screenshot](dashboard.png)
 ------------------------------------------------------------------------
 
 ## 🚀 Key Features
