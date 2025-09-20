@@ -19,7 +19,7 @@ The dashboard provides real-time weather analytics in a **simple,
 intuitive, and dark-themed interface**. It consolidates multiple weather
 indicators into a single view.
 
-![Dashboard Screenshot](e0d647b1-ebbd-4557-8c08-0c124fac3703.png)
+![Dashboard Screenshot](image.png)
 
 ### 🔑 Primary Features:
 
